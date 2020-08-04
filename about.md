@@ -12,4 +12,4 @@ I am a senior PhD candidate in the Department of Microbiology and Immunology at 
 
 ### Contact me
 
-[email@domain.com](mailto:maunish7@gmail.com)
+[maunish7@gmail.com](mailto:maunish7@gmail.com)
